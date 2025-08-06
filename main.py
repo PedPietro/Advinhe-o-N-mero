@@ -34,7 +34,8 @@ def gerador():
                     gerador()
                 else: ("Vai Catar Coquinho!")
     else:
-        print("Vai te Lascar Então")                
+        print("Vai te Lascar Então")
+                        
 if __name__ == "__main__":
     gerador()         
             
